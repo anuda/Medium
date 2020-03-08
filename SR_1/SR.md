@@ -21,7 +21,7 @@ plt.imshow(lr_img)`
 (320, 320, 3)
 ```
 
-![Low Resolution Image](/home/anuda/EVA/Data/0797_lr.png)
+![Low Resolution Image](https://github.com/anuda/Medium/blob/master/SR_1/0797_lr.png)
 
 Now lets resize the image to 2X. Below is the code and the output of the image.  If you observe , you can see the image getting blurred. This is because just doubling images just can't create and fill in the missing information. 
 
@@ -33,7 +33,7 @@ Now lets resize the image to 2X. Below is the code and the output of the image. 
 (640, 640, 3)
 ```
 
-![2X image](/home/anuda/EVA/Data/hr_img_nn_art.png)
+![2X image](https://github.com/anuda/Medium/blob/master/SR_1/hr_img_nn_art.png)
 
 Image source: https://data.vision.ee.ethz.ch/cvl/DIV2K/
 
@@ -57,7 +57,7 @@ Super Resolution bases its applications in the field of computer vision. Compute
 
 With the progress of research in the field of Deep Learning , multiple researchers have been able to propose and build architectures that are able to achieve such feats. This is possible due the reason that Neural networks can fill in the gaps when they are trained over pairs of low resolution and their corresponding higher resolution images.
 
-![nn_sr](/home/anuda/Pictures/nn_sr.png)
+![nn_sr](https://github.com/anuda/Medium/blob/master/SR_1/nn_sr.png)
 
 
 
